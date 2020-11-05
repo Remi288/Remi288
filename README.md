@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Ope :woman_technologist:
+### Hi there 👋 I'm Opeoluwa :woman_technologist:
 
-I am committed and enthusiastic Full-Stack developer. I am passionate about building website applications and I’m always adding new skills to my repertoire. I am a good team player that love to provide dynamic solutions.
+I am a committed and enthusiastic Full-Stack developer. I am passionate about building website applications and I’m always adding new skills to my repertoire. I am a good team player that love to provide dynamic solutions.
 
 I enrolled in a Software Engineering Training 💻 at Decagon, where I worked on projects like APIs Poll applications, Hyperlink Web Scrapper, Customer management App with Django, Built APIs for Music Management App, Blog website using React. Since then, I've been living and breathing web development and applications😍. 
 
