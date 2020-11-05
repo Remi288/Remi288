@@ -2,7 +2,7 @@
 
 I am a committed and enthusiastic Full-Stack developer. I am passionate about building website applications and I’m always adding new skills to my repertoire. I am a good team player that love to provide dynamic solutions.
 
-I enrolled in a Software Engineering Training 💻 at Decagon, where I worked on projects like APIs Poll applications, Hyperlink Web Scrapper, Customer management App with Django, Built APIs for Music Management App, Blog website using React. Since then, I've been living and breathing web development and applications😍. 
+I enrolled in a Software Engineering Training 💻 at Decagon, where I worked on projects like APIs Poll applications, Hyperlink Web Scrapper, Customer management App with Django, Built APIs for Music Management App, Blog website using React. Since then, I've been living and breathing web development and applications😍. Currently looking for opportunities. 
 
 When I am not coding I read Articles and Books on Software Development and programming and learn new Foreign languages. I enjoy cooking and travelling. 
 
