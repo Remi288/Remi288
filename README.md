@@ -10,7 +10,7 @@ When I am not coding I read Articles and Books on Software Development and progr
 
 ### Talking about Personal Stuffs: 
 
-- 🌱 I’m currently learning: React Redux, GraphQL, Machine Learning.
+- 🌱 I’m currently learning: WEB3, Machine Learning.
 
 - 📫 How to reach me: opeoluwaadewale2809@gmail.com 
 
