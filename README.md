@@ -4,13 +4,14 @@ An enthusiastic Full-Stack developer. I am passionate about building website app
 
 I am committed to creating unique scalable distributed web applications. 
 
-When I am not coding I read Articles and Books on Software Development and programming and learn new Foreign languages. I enjoy cooking and travelling. 
+When I am not coding I read Novels, Articles and Books on Software Development and programming and learn new Foreign languages. I also enjoy cooking and travelling. 
 
 ### Talking about Personal Stuffs: 
 
-- 🌱 I’m currently learning: WEB3.
+- 🌱 I’m always learning new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 📫 How to reach me: opeoluwaadewale2809@gmail.com 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/opeoluwa-adewale-5aaa64120/)
+
 
 **Tech Stack:** 
 
@@ -40,8 +41,11 @@ When I am not coding I read Articles and Books on Software Development and progr
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Remi288&show_icons=true&count_private=true&theme=dark" alt="Prince-kushwaha" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Remi288&show_icons=true&count_private=true&theme=dark" alt="Prince-kushwaha" /></p> -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi288&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+**Social:** 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/deremieey) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/opeoluwa-adewale-5aaa64120)
 
